@@ -6,8 +6,6 @@ Copyright (C) 2012 cornernote, Brett O'Donnell <cornernote@gmail.com>
 
 Source Code: https://github.com/cornernote/minetest-autoit-poker_bot
 
-
-
 ----------------------------------
 License
 ----------------------------------
@@ -51,3 +49,4 @@ Table hop if the blinds are too big or too small.
 Allows custom user image.
 Detects number of opponents.
 Run multiple BackgroundBots.
+[![Run on Repl.it](https://repl.it/badge/github/cornernote/autoit-poker_bot)](https://repl.it/github/cornernote/autoit-poker_bot)
